@@ -31,5 +31,10 @@ The Personal Library Management System is a real-time application designed for m
 
    ```bash
    git clone https://github.com/your-username/library-management-system.git
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
+
 ## Note
 - I have used Eclipse IDE to create the project
